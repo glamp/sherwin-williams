@@ -1,0 +1,32 @@
+{
+  "name": "sherwin-williams",
+  "version": "1.0.0",
+  "description": "Sherwin Williams colors available in CSS and JavaScript.",
+  "main": "index.js",
+  "files": [
+    "*.css"
+  ],
+  "scripts": {
+    "build": "node data/index.js > sherwin-williams.css",
+    "test": "echo 'OK'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/glamp/sherwin-williams.git"
+  },
+  "keywords": [
+    "colors",
+    "sherwin",
+    "williams",
+    "css",
+    "variables",
+    "css",
+    "colors"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/glamp/sherwin-williams/issues"
+  },
+  "homepage": "https://github.com/glamp/sherwin-williams#readme"
+}

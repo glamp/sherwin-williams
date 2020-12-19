@@ -1,0 +1,1527 @@
+COLOR NAME2	HEX
+Mulberry Silk	94766C
+Chelsea Mauve	BEAC9F
+Cabbage Rose	C59F91
+Rose Brocade	996C6E
+Deepest Mauve	6D595A
+Toile Red	8B534E
+Decorous Amber	AC7559
+Cajun Red	8D422F
+Eastlake Gold	C28E61
+Wickerwork	C19E80
+Crewel Tan	CBB99B
+Empire Gold	C19F6E
+Majolica Green	AEB08F
+Sheraton Sage	8F8666
+Gallery Green	708672
+Billiard Green	45584D
+Calico	8CA49C
+Teal Stencil	627F7B
+Festoon Aqua	A0BBB8
+Peacock Plume	739694
+Queen Anne Lilac	C0B6B4
+Patchwork Plum	7E696A
+Pewter Tankard	A39B90
+Curio Gray	988977
+Rosedust	CC8D84
+Rachel Pink	E8B9AE
+Aristocrat Peach	ECCEB9
+Caen Stone	ECD0B1
+Acanthus	CDCDB4
+Colonial Yellow	EFC488
+Dutch Tile Blue	9AABAB
+Needlepoint Navy	546670
+Rembrandt Ruby	974F49
+Roycroft Rose	C08F80
+Indian White	EEDAC3
+Buckram Binding	D9C3A6
+Morris Room Grey	ADA193
+Library Pewter	7F7263
+Portrait Tone	C4957A
+Roycroft Adobe	A76251
+Dard Hunter Green	3A4A3F
+Ruskin Room Green	ACA17D
+Peristyle Brass	AE905E
+Hubbard Squash	E9BF8C
+Antiquarian Brown	946644
+White Hyacinth	F3E5D1
+Studio Blue Green	6D817B
+Bunglehouse Blue	47626F
+Silver Gray	B8B2A2
+Classic Light Buff	F0EADC
+Classic Ivory	F2E0C3
+Pearl Gray	CBCEC5
+Porcelain	E9E0D5
+Twilight Gray	C8BFB5
+Light French Gray	C2C0BB
+Classic Sand	D6BCAA
+Chinese Red	9E3E33
+Jazz Age Coral	F1BFB1
+Frostwork	CBD0C2
+Alexandrite	598C74
+Salon Rose	AB7878
+Studio Mauve	C6B9B8
+Blue Sky	ABD1C9
+Blue Peacock	014E4C
+Vogue Green	4B5645
+Cascade Green	ACB19F
+Belvedere Cream	F0CDA0
+Copen Blue	C2CCC4
+Rose Tan	CD9C85
+Pink Shadow	DEC3B9
+Orchid	BC9C9E
+Deep Maroon	623F45
+Chartreuse	E1D286
+Radiant Lilac	A489A0
+Holiday Turquoise	8AC6BD
+Appleblossom	DAB5B4
+Classic French Gray	888782
+Sunbeam Yellow	F0D39D
+Pinky Beige	C9AA98
+Pink Flamingo	CD717B
+Skyline Steel	C6BFB3
+Venetian Yellow	F6E3A1
+Icy Lemonade	F4E8B2
+Pineapple Cream	F2EAC3
+Merlot	51323B
+Rockweed	443735
+Charcoal Blue	3D4450
+Mineral Gray	515763
+Rookwood Dark Red	4B2929
+Rookwood Red	622F2D
+Rookwood Terra Cotta	975840
+Renwick Rose Beige	AF8871
+Renwick Beige	C3B09D
+Rookwood Brown	7F614A
+Rookwood Medium Brown	6E5241
+Rookwood Dark Brown	5F4D43
+Rookwood Shutter Green	303B39
+Rookwood Sash Green	506A67
+Rookwood Blue Green	738478
+Rookwood Jade	979F7F
+Downing Straw	CAAB7D
+Rookwood Antique Gold	A58258
+Renwick Olive	97896A
+Rookwood Dark Green	565C4A
+Rookwood Amber	C08650
+Renwick Heather	8B7D7B
+Downing Slate	777F86
+Downing Earth	887B67
+Downing Stone	A6A397
+Downing Sand	CBBCA5
+Rookwood Clay	9A7E64
+Renwick Golden Oak	96724C
+Colonial Revival Green Stone	A39B7E
+Colonial Revival Stone	A7947C
+Colonial Revival Tan	D3B699
+Classical White	ECE1CB
+Classical Gold	EBB875
+Colonial Revival Gray	B4B9B9
+Roycroft Vellum	E8D9BD
+Birdseye Maple	E4C495
+Craftsman Brown	AE9278
+Quartersawn Oak	85695B
+Aurora Brown	6A4238
+Polished Mahogany	432722
+Roycroft Copper Red	7B3728
+Hammered Silver	978A7F
+Weathered Shingle	937F68
+Roycroft Suede	A79473
+Roycroft Brass	7A6A51
+Roycroft Mist Gray	C2BDB1
+Bunglehouse Gray	988F7B
+Roycroft Bronze Green	575449
+Roycroft Bottle Green	324038
+Roycroft Pewter	616564
+Westchester Gray	797978
+Chelsea Gray	B6B7B0
+Sage Green Light	73705E
+New Colonial Yellow	D9AD7F
+Caribbean Coral	BE795E
+Sycamore Tan	9C8A79
+Fairfax Brown	61463A
+Peace Yellow	EECF9E
+Harvest Gold	D9A06A
+Beige	DFC8B5
+Sage	B3AE95
+Avocado	857C5D
+Powder Blue	89A4AD
+Classical Yellow	F8D492
+Snowfall	E0DEDA
+Grayish	CFCAC7
+Essential Gray	BCB8B6
+Proper Gray	ADA8A5
+Mink	847B77
+Folkstone	6D6562
+Black Bean	403330
+Smart White	E4DBD8
+Individual White	D4CDCA
+Imagine	C2B6B6
+Flexible Gray	B1A3A1
+Chinchilla	867875
+Browse Brown	6E615F
+Bitter Chocolate	4D3C3C
+Vaguely Mauve	D1C5C4
+Chaise Mauve	C1B2B3
+Intuitive	B3A3A5
+Enigma	8B7C7E
+Poetry Plum	6F5C5F
+Marooned	4E3132
+Dreamy White	E3D9D5
+Breathless	D6C2BE
+Insightful Rose	C9B0AB
+Dressy Rose	B89D9A
+Socialite	907676
+River Rouge	76595D
+Cordovan	5F3D3F
+Cultured Pearl	E5DCD6
+White Truffle	D7C8C2
+Artistic Taupe	C3B1AC
+Glamour	B6A09A
+Dutch Cocoa	8C706A
+Bateau Brown	7A5F5A
+Arresting Auburn	5A3532
+Gauzy White	E3DBD4
+Angora	D1C5BE
+Temperate Taupe	BFB1AA
+Truly Taupe	AC9E97
+Poised Taupe	8C7E78
+Less Brown	756761
+Otter	56433B
+Hush White	E5DAD4
+Unfussy Beige	D6C8C0
+Doeskin	C6B3A9
+Emerging Taupe	B8A196
+Swing Brown	947569
+Hot Cocoa	806257
+Terra Brun	5A382D
+Gorgeous White	E7DBD3
+Abalone Shell	DBC7BD
+Sashay Sand	CFB4A8
+Sandbank	C3A497
+Reddened Earth	9C6E63
+Canyon Clay	85594F
+Fiery Brown	5D3831
+Polite White	E9DDD4
+Malted Milk	DECABD
+Likeable Sand	D1B7A8
+Interface Tan	C1A392
+Moroccan Brown	9D7868
+Tanbark	896656
+Rugged Brown	694336
+Nice White	E6DDD5
+Reticence	D9CDC3
+Bona Fide Beige	CBB9AB
+Sand Trap	BBA595
+Mocha	967A6A
+Brevity Brown	715243
+French Roast	4F3426
+Heron Plume	E5E1D8
+Popular Gray	D4CCC3
+Versatile Gray	C1B6AB
+Perfect Greige	B7AB9F
+Spalding Gray	8D7F75
+Garret Gray	756861
+Turkish Coffee	4D3930
+Everyday White	E4DCD4
+Realist Beige	D3C8BD
+Diverse Beige	C2B4A7
+Utterly Beige	B5A597
+Down Home	907865
+Cobble Brown	7A6455
+Sable	5F4B3F
+Modest White	E6DDD4
+Simplify Beige	D6C7B9
+Sand Dune	C5B1A2
+Trusty Tan	B59F8F
+Nuthatch	8E725F
+Grounded	785B47
+Java	634533
+Reliable White	E8DED3
+Lightweight Beige	DAC8B8
+Familiar Beige	CAB3A0
+Sensational Sand	BFA38D
+Toasty	957258
+Jute Brown	815D40
+Sturdy Brown	69482C
+Pacer White	E5DDD0
+Sand Dollar	D7C5B3
+Practical Beige	C9B29C
+Sands of Time	BCA38B
+Portabello	947A62
+Tea Chest	7D644D
+Kaffee	65503D
+Divine White	E6DCCD
+Kilim Beige	D7C5AE
+Nomadic Desert	C7B198
+Latte	BAA185
+Hopsack	9E8163
+Steady Brown	8A6B4D
+Coconut Husk	70573F
+Biscuit	EBDDCB
+Interactive Cream	E4CAAD
+Bagel	D7B593
+Totally Tan	CCA683
+Tatami Tan	BA8C64
+Smokey Topaz	A57955
+Leather Bound	8D623D
+Antique White	E8DCC6
+Believable Buff	DBC7A8
+Whole Wheat	CDB592
+Camelback	C5AA85
+Baguette	B39167
+Cardboard	9C7A56
+Craft Paper	8A6645
+Navajo White	E9DCC6
+Ivoire	E4CEAC
+Blonde	DCBD92
+Restrained Gold	D2B084
+Mannered Gold	C19763
+Chamois	AD8451
+Relic Bronze	906A3A
+Muslin	EADFC9
+Netsuke	E0CFB0
+Ecru	D0BA94
+Harmonic Tan	C6B08A
+Burlap	AC9571
+Artifact	9A815E
+Mossy Gold	7F6743
+Moderate White	E9DECF
+Softer Tan	DACAB2
+Macadamia	CCB79B
+Basket Beige	C0A98B
+Dapper Tan	947F65
+Thatch Brown	867057
+Umber	6E543C
+Panda White	EAE2D4
+Wool Skein	D9CFBA
+Relaxed Khaki	C8BBA3
+Universal Khaki	B8A992
+Quiver Tan	8E7F6A
+Superior Bronze	786957
+Protégé Bronze	66543E
+Nacre	E8E2D4
+Rice Grain	DBD0B9
+Ramie	CDBDA2
+Favorite Tan	C1AE91
+Sawdust	998970
+High Tea	7E6F59
+Best Bronze	5D513E
+Nonchalant White	DEDDD1
+Ancient Marble	D1CCB9
+Grassland	C1BCA7
+Svelte Sage	B2AC96
+Connected Gray	898473
+Eclipse	6B6757
+Garden Gate	5E5949
+Moderne White	E2E0D7
+Sedate Gray	D1CDBF
+Techno Gray	BFB9AA
+Chatroom	B0AB9C
+Hardware	8B8372
+Cocoon	726B5B
+Andiron	424036
+Sagey	E2E2D1
+Liveable Green	CECEBD
+Softened Green	BBBCA7
+Clary Sage	ACAD97
+Artichoke	7F8266
+Oakmoss	65684C
+Secret Garden	4F523A
+Ethereal White	E3E2D9
+Conservative Gray	D1D0C6
+Austere Gray	BEBFB2
+Escape Gray	ABAC9F
+Dried Thyme	7B8070
+Rosemary	64695C
+Shade‐Grown	4E5147
+Opaline	DCDFD7
+Filmy Green	D1D3C7
+Contented	BDC0B3
+Coastal Plain	9FA694
+Privilege Green	7A8775
+Basil	626E60
+Rock Garden	465448
+Frosty White	DDDDD6
+Aloof Gray	C9C9C0
+Sensible Hue	B6B5AB
+Rare Gray	A6A69B
+Link Gray	7F7E72
+Thunderous	6D6C62
+Cast Iron	64645A
+Spare White	E4E4DD
+Sea Salt	CDD2CA
+Comfort Gray	BEC3BB
+Oyster Bay	AEB3A9
+Retreat	7A8076
+Pewter Green	5E6259
+Ripe Olive	44483D
+Window Pane	D7DFD8
+Rainwashed	C2CDC5
+Quietude	ADBBB2
+Halcyon Green	9BAAA2
+Underseas	7C8E87
+Rocky River	5E706A
+Jasper	343B36
+Topsail	DAE2E0
+Tradewind	C2CFCF
+Rain	ABBEBF
+Interesting Aqua	9BAFB2
+Moody Blue	7A9192
+Riverway	5D7274
+Still Water	4A5D5F
+Mountain Air	D8E0DF
+Sleepy Blue	BCCBCE
+Languid Blue	A4B7BD
+Meditative	96AAB0
+Refuge	607D84
+Tempe Star	47626A
+Rainstorm	244653
+Rock Candy	DEE1DF
+Misty	CDD2D2
+Samovar Silver	B8BEBE
+Uncertain Gray	A9B0B1
+Foggy Day	727C7F
+Grays Harbor	596368
+Dark Night	23383F
+Icicle	DBDFE0
+Upward	BFC9D0
+Windy Blue	AABAC6
+Aleutian	98A9B7
+Bracing Blue	768B9A
+Distance	5D6F7F
+Naval	2F3D4C
+Quicksilver	DDE2E0
+North Star	CAD0D2
+Krypton	B8C0C3
+Jubilee	ADB5B9
+Storm Cloud	7A848D
+Granite Peak	606B75
+Outerspace	586168
+Ice Cube	E3E4E1
+Olympus White	D4D8D7
+Lazy Gray	BEC1C3
+Morning Fog	A8AEB1
+Serious Gray	7D848B
+Gibraltar	626970
+Tricorn Black	2F2F30
+Spatial White	DDDCDB
+Unique Gray	CBC9C9
+Swanky Gray	B5B1B5
+Mysterious Mauve	A6A3A9
+Exclusive Plum	736F78
+Midnight	5D5962
+Quixotic Plum	4A4653
+Sensitive Tint	CEC9CC
+Veiled Violet	BDB5B9
+Beguiling Mauve	AFA7AC
+Soulmate	85777B
+Expressive Plum	695C62
+Plum Brown	4E4247
+Destiny	CFC9C8
+Fashionable Gray	BDB8B8
+Mystical Shade	AEA9AA
+Special Gray	7B787D
+Cloak Gray	605E63
+Black Swan	3A373E
+Wallflower	DBCFD4
+Mauve Finery	CBB8C0
+Thistle	AA8E9A
+Plum Dandy	8B6878
+Grape Harvest	7E5A6D
+Mature Grape	5F3F54
+Rosebud	E0CDD1
+Delightful	D2B6BE
+Rosé	B995A1
+Moss Rose	9E6D79
+Berry Bush	8D5869
+Fabulous Grape	6D344F
+Demure	E8D4D5
+Fading Rose	DABDC1
+Rose Embroidery	C79EA2
+Concerto	9E6B75
+Aged Wine	895460
+Burgundy	63333E
+Innocence	EBD1CF
+Rose Colored	DCB6B5
+Pressed Flower	C39393
+Rambling Rose	995D62
+Cordial	864C52
+Fine Wine	723941
+Charming Pink	EDD3D2
+Lotus Flower	E6BDBD
+Memorable Rose	CF8A8D
+Redbud	AD5E65
+Kirsch Red	974953
+Luxurious Red	863A42
+Rosy Outlook	EBCECB
+Gracious Rose	E3B7B1
+Resounding Rose	CD8E89
+Reddish	B56966
+Bravado Red	A0524E
+Red Bay	8E3738
+Intimate White	F0E1D8
+Romance	EBCFC3
+Mellow Coral	E3B5A8
+Constant Coral	CD8E7F
+Henna Shade	B3675D
+Bold Brick	A0584F
+Fireweed	7B3730
+Faint Coral	EEDED5
+Quaint Peche	EACDC1
+Smoky Salmon	E2B6A7
+Coral Island	CE9382
+Foxy	A85E53
+Flower Pot	8F4438
+Fired Brick	83382A
+Nearly Peach	EFDED1
+Spun Sugar	EDD2C0
+Warming Peach	E4B9A2
+Persimmon	D9987C
+Baked Clay	C1785C
+Red Cent	AD654C
+Spicy Hue	994B35
+Alluring White	EFE1D2
+Peach Fuzz	ECCFBB
+Sumptuous Peach	E5B99B
+Fame Orange	DB9C7B
+Chrysanthemum	C47B5B
+Reynard	B46848
+Pennywise	A2583A
+Intricate Ivory	EDDDCA
+Sweet Orange	EBCCB3
+Soft Apricot	E0B392
+Chivalry Copper	D4966E
+Armagnac	C38058
+Truepenny	B46C42
+Copper Mountain	A6613C
+Choice Cream	F0E1D0
+Creamery	EDD0B6
+Sociable	E8BE9B
+Folksy Gold	D69969
+Autumnal	CD8C5D
+Tigereye	BB7748
+Gingery	B06C3E
+Eggwhite	F3E5D2
+Cachet Cream	F3D9BA
+Ambitious Amber	F0CB97
+Viva Gold	E3AC72
+Bakelite Gold	D7995D
+Tassel	C6884A
+Saucy Gold	B6743B
+Vanillin	F2E3CA
+Inviting Ivory	F2D5B0
+Harvester	EDC38E
+Torchlight	E5AE6B
+Honeycomb	D59858
+Gold Coast	C78538
+Butterscotch	B67D3C
+Crisp Linen	F3E6D4
+Jersey Cream	F5DEBB
+Humble Gold	EDC796
+Anjou Pear	DDAC6D
+Ceremonial Gold	D69E59
+Golden Rule	CC9249
+Cut the Mustard	BA7F38
+Dover White	F0EADC
+Napery	EFDDC1
+Compatible Cream	E8C89E
+Golden Fleece	D6AD78
+Butternut	CC9B5C
+Bosc Pear	C09056
+Gallant Gold	A4763C
+Vital Yellow	EDE0C5
+Convivial Yellow	E9D6B0
+Sequin	E1C28D
+Alchemy	C99E53
+Different Gold	BC934D
+Nankeen	AA803A
+Sconce Gold	996F32
+Chamomile	E9E0C5
+Lucent Yellow	E4D0A5
+Independent Gold	D2BA83
+Antiquity	C2A462
+Escapade Gold	B89B59
+Grandiose	9C7F41
+Fervent Brass	95793D
+Ionic Ivory	E7DFC5
+Ancestral Gold	DDCDA6
+Wheat Grass	CBB584
+Edgy Gold	B1975F
+Brassy	9D8344
+Bengal Grass	8E773F
+Eminent Bronze	7A6841
+Restoration Ivory	E9E1CA
+Rice Paddy	DFD4B0
+Hearts of Palm	CFC291
+Sassy Green	BBA86A
+Tupelo Tree	9C9152
+Rural Green	8D844D
+Saguaro	655F2D
+Queen Anne's Lace	ECEAD5
+Celery	E0DDBD
+Shagreen	CBC99D
+Ryegrass	AEAC7A
+Tansy Green	95945C
+Relentless Olive	71713E
+Basque Green	5F6033
+Sprout	E4E4CE
+Honeydew	DBDDBD
+Baize Green	C7CDA8
+Great Green	ABB486
+Leapfrog	88915D
+Garden Spot	6D7645
+Inverness	576238
+Spinach White	E4E8DA
+Gratifying Green	DAE2CD
+Bonsai Tint	C5D1B2
+Haven	A3B48C
+Dill	788D60
+Greenfield	60724F
+Courtyard	475842
+White Mint	E0E7DA
+Supreme Green	CFDDC7
+Relish	B3CBAA
+Lounge Green	8BA97F
+Garden Grove	5E7F57
+Arugula	42603C
+Evergreens	405840
+Topiary Tint	C8D8C4
+Easy Green	ACC2A8
+Nurture Green	98B092
+Inland	6C8867
+Cilantro	537150
+Shamrock	205134
+Fleeting Green	D8E2D8
+Slow Green	C6D5C9
+Kind Green	AAC2B3
+Restful	91AF9D
+Jadite	61826C
+Kale Green	4F6A56
+Isle of Pines	3D5541
+Green Trance	D7E4DB
+Breaktime	C4D9CE
+Aloe	ACCABC
+Spearmint	94B5A6
+Grandview	6B927F
+Kendal Green	547867
+Hunt Club	2A4F43
+Waterscape	BFD2C9
+Hazel	A8C1B7
+Composed	7EA298
+Surf Green	5F887D
+Raging Sea	476F65
+Country Squire	124A42
+Glimmer	E0E7E2
+Tidewater	C3D7D3
+Watery	B4CCC9
+Drizzle	8CAEAB
+Lagoon	518682
+Green Bay	2E6864
+Cape Verde	01554F
+Meander Blue	BEDBD8
+Raindrop	9EC6C6
+Reflecting Pool	7BB1B2
+Cloudburst	5C9598
+Grand Canal	3C797D
+Really Teal	016367
+Open Air	C7DFE0
+Jetstream	B0D2D6
+Ebbtide	84B4BE
+Lakeshore	5B96A2
+Great Falls	217786
+Oceanside	015A6B
+Blue Horizon	D8E7E6
+Byte Blue	C5DCE0
+Stream	ADCCD3
+Open Seas	83AFBC
+Manitou Blue	5B92A2
+Loch Blue	2F778B
+Bosporus	015D75
+Sky High	DCE7E8
+Atmospheric	C2DAE0
+Vast Sky	A9C9D7
+Resolute Blue	85B0C4
+Secure Blue	5389A1
+Georgian Bay	22657F
+Loyal Blue	01455E
+Snowdrop	E0E8E7
+Balmy	C5D8DE
+Take Five	B3C9D3
+Respite	97B4C3
+Leisure Blue	6A8EA1
+Down Pour	43718B
+Regatta	215772
+Hinting Blue	CED9DD
+Honest Blue	B2C7D3
+Notable Hue	8BA7BB
+Sporty Blue	6A8AA4
+Denim	506B84
+Commodore	25476A
+Rarified Air	E1E6E6
+Icelandic	CBD8E1
+Blissful Blue	B2C8D8
+Cosmos	8EA9C2
+Scanda	6B8CA9
+Revel Blue	4C6B8A
+Indigo	284A70
+Mild Blue	CBD5DB
+Icy	BBC7D2
+Solitude	99A7B8
+Searching Blue	6C7F9A
+Luxe Blue	516582
+Dignified	3B496D
+Starry Night	D6D9DE
+Daydream	BDC3CD
+Vesper Violet	99A0B2
+Soulful Blue	757C91
+Mesmerize	5D657B
+Majestic Purple	3B3C5A
+Silver Peony	DAD6DB
+Grape Mist	C5C0C9
+Ash Violet	A29BAA
+Mythical	7E778E
+Purple Passage	645E77
+Dewberry	3E385A
+Lite Lavender	E0DADF
+Enchant	D1C6D2
+Obi Lilac	B0A3B6
+Wood Violet	7A6B85
+Plummy	675A75
+Concord Grape	443757
+Teaberry	EBD1DB
+Irresistible	E3C0CF
+Rosebay	CB9AAD
+Red Clover	B87E93
+Grandeur Plum	92576F
+Framboise	7C3655
+Lighthearted Pink	EDD5DD
+Childlike	E8C0CF
+Haute Pink	D899B1
+Cyclamen	C47B95
+Ruby Shade	A2566F
+Juneberry	854158
+Priscilla	F1D3DA
+Azalea Flower	EFC0CB
+Jaipur Pink	E392A1
+Tuberose	D47C8C
+Gala Pink	B04B63
+Cerise	99324E
+Impatiens Petal	F1D2D7
+In the Pink	F0BCC9
+Cheery	EB92A3
+Coming up Roses	DD7788
+Heartfelt	BD4C5F
+Valentine	A53A4E
+Alyssum	F2D5D7
+Loveable	F0C1C6
+Amaryllis	ED939D
+Grenadine	D66972
+Coral Bells	BB4B51
+Poinsettia	9D373C
+Bella Pink	F1C6C4
+Hopeful	F0B3B2
+Dishy Coral	ED9190
+Begonia	D76C6E
+Enticing Red	B74E4F
+Tanager	A43834
+Oleander	F2CCC5
+Youthful Coral	F0AFA8
+Charisma	EE9489
+Coral Reef	D9766C
+Red Tomato	B24743
+Rave Red	A13B34
+Koral Kicks	F2D1C3
+Jovial	F2B8A7
+Ravishing Coral	E79580
+Lei Flower	D87B6A
+Quite Coral	C76356
+Peppery	B85444
+Blushing	F0D1C3
+Cosmetic Peach	F3C1AB
+Sockeye	E49780
+Rejuvenate	DD7861
+Emotional	C65F47
+Hearty Orange	B44B34
+Peach Blossom	F3D0BD
+Certain Peach	F2BDA2
+Sunset	E2946F
+Emberglow	D67C56
+Robust Orange	C4633E
+Jalapeño	B1533C
+Naive Peach	F3D3BF
+Neighborly Peach	F3C1A3
+Inventive Orange	E89D6F
+Copper Harbor	D57E52
+Determined Orange	C56639
+Husky Orange	BB613E
+Flattering Peach	F4D3B3
+Avid Apricot	F4C69F
+Tangerine	F2AC78
+Outgoing Orange	E6955F
+Rhumba Orange	CB7841
+Yam	C36F3E
+Champagne	F2E3CE
+Flan	F4D4AF
+Delicious Melon	F5C894
+Surprise Amber	EFB57A
+Adventure Orange	E69F5F
+Serape	D88B4D
+Amber Wave	D28240
+Welcome White	F3E3CA
+Captivating Cream	F4D9B1
+Honey Blush	F5CF9B
+Papaya	EFB97B
+Summer Day	EAAA62
+Saffron Thread	DF984E
+Marigold	D28233
+Gardenia	F3E2C9
+Enjoyable Yellow	F5D6A9
+Afterglow	F6CD8E
+Sunrise	F4BF77
+Yarrow	EBAD5E
+Gold Crest	DF9938
+Curry	D88F32
+Morning Sun	F3E6CE
+Banana Cream	F5DEAF
+Jonquil	F7D391
+Afternoon	FBCB78
+Butterfield	F7BE5B
+Goldenrod	F2AF46
+Sunflower	E39A33
+Full Moon	F4E3BC
+Friendly Yellow	F5E0B1
+Butter Up	F6DDA3
+June Day	F6C973
+Bee	F1BA55
+Brittlebush	EAAE47
+Trinket	D69835
+Lemon Chiffon	F5E5BC
+Lantern Light	F4E1AE
+Solaria	F5D68F
+Overjoy	EEC25F
+Gambol Gold	E1B047
+Glitzy Gold	D6A02B
+Auric	C48919
+Lily	F3E8C2
+Glad Yellow	F5E1AC
+Midday	F7D78A
+Quilt Gold	EAC365
+Nugget	DBB04A
+Kingdom Gold	D1A436
+Crispy Gold	C49832
+Daybreak	F3EAC6
+Moonraker	EEE3B2
+Lively Yellow	E6D88E
+Frolic	D9C661
+Hep Green	C4B146
+High Strung	AC9825
+Offbeat Green	9C8B1F
+Springtime	E9E5B3
+Gleeful	DAD790
+Mélange Green	C4C476
+Parakeet	B4B05A
+Luau Green	989746
+Verdant	847E35
+Lime Granita	DCE1B8
+Dancing Green	C5CD8F
+Lime Rickey	AFB96A
+Overt Green	97A554
+Gecko	7A8833
+Paradise	6C7B30
+Cucumber	D3DFC3
+Jardin	BDD0AB
+Mesclun Green	9DB682
+Pickle	85A16A
+Talipot Palm	648149
+Houseplant	58713F
+Lacewing	D7E3CA
+Romaine	C0D2AD
+Picnic	99C285
+Organic Green	7FAC6E
+Grasshopper	4F854A
+Espalier	2F5F3A
+Jocular Green	CCE2CA
+Kiwi	AED2B0
+Vegan	8EC298
+Eco Green	68A678
+Kilkenny	498555
+Derbyshire	245E36
+Mint Condition	D1E3D2
+Reclining Green	B7D7BF
+Lark Green	8AC1A1
+Julep	57AA80
+Argyle	348A5D
+Greens	016844
+Embellished Blue	D7EBE2
+Waterfall	C0E3DA
+Refresh	A1D4C8
+Larchmere	70BAA7
+Jargon Jade	53A38F
+Ionian	368976
+Starboard	016C4F
+Tame Teal	C1E6DF
+Aqueduct	A1D5CB
+Cooled Blue	75B9AE
+Rivulet	61A89D
+Thermal Spring	3B8C80
+Poseidon	016D60
+Swimming	C2E5E5
+Spa	A7DCDC
+Mariner	6EC2C4
+Aquarium	3AA9AE
+Gulfstream	01858B
+Maxi Teal	017478
+Bathe Blue	C2E0E3
+Cay	A6D0D6
+Rapture Blue	7DC1CB
+Freshwater	4DA6B2
+Briny	08808E
+Blue Nile	01717E
+Aviary Blue	C6E3E8
+Liquid Blue	A6D4DE
+Nautilus	71B8C7
+Jamaica Bay	34A3B6
+Cruising	018498
+Amalfi	016E85
+Bravo Blue	D3E7E9
+Quench Blue	B4E0E7
+Cloudless	8FD0DD
+Fountain	56B5CA
+Capri	01A0B8
+Blue Mosque	01819E
+Adriatic Sea	016081
+Minor Blue	B7DFE8
+Bluebell	A2D5E7
+Flyway	5DB3D4
+Major Blue	289EC4
+Blue Plate	017CA7
+Jay Blue	015D87
+Iceberg	D6E4E7
+Soar	C3DFE8
+Something Blue	B0D6E6
+Regale Blue	7DB5D3
+Jacaranda	5A9EC0
+Danube	2377A2
+Dignity Blue	094C73
+Rhythmic Blue	CCDBE5
+Wondrous Blue	B8CDDD
+Celestial	97B3D0
+Lobelia	7498BE
+Lupine	4E739F
+Honorable Blue	164576
+Wishful Blue	D8DDE6
+Breathtaking	C7D1E2
+Awesome Violet	A7B2D4
+Dahlia	8B98C4
+Gentian	6572A5
+Valiant Violet	3E4371
+Inspired Lilac	DFD9E4
+Potentially Purple	D1CBDF
+Wisteria	BDB4D4
+Brave Purple	968DB8
+Forget‐Me‐Not	716998
+Izmir Purple	4D426E
+Elation	DFDCE5
+Rhapsody Lilac	D2C8DD
+Magical	C0AFD0
+Kismet	A18AB7
+Clematis	7E6596
+Impulsive Purple	624977
+Spangle	E5DBE5
+Euphoric Lilac	DAC7DA
+Novel Lilac	C2A4C2
+Baroness	A785A7
+Vigorous Violet	7C5A7E
+Kimono Violet	5D395F
+Exuberant Pink	B54D7F
+Dynamo	953D68
+Forward Fuchsia	92345B
+Hot	AC4362
+Dragon Fruit	CC617F
+Eros Pink	C84F68
+Radish	A42E41
+Cherries Jubilee	AB3C51
+Heartthrob	A82E33
+Real Red	BF2D32
+Stop	C33A36
+Positive Red	AD2C34
+Comical Coral	F3D1C8
+Cayenne	C04D35
+Raucous Orange	C35530
+Obstinate Orange	D7552A
+Knockout Orange	E16F3E
+Invigorate	E47237
+Navel	EC8430
+Osage Orange	F4A045
+Carnival	EB882C
+Solé	F7DDA1
+Optimistic Yellow	F5E1A6
+Daffodil	FAD97A
+Decisive Yellow	FDCC4E
+Cheerful	FFC723
+Gusto Gold	F8AC1D
+Goldfinch	FDB702
+Forsythia	FFC801
+Fun Yellow	F7E594
+Lemon Twist	FED95D
+Daisy	FED340
+Confident Yellow	FECB01
+Funky Yellow	EDD26F
+Eye Catching	DDB835
+Citronella	CBA901
+Humorous Green	C6B836
+Center Stage	B2C216
+Electric Lime	9ABA25
+Direct Green	3F8A24
+Envy	358C3F
+Lucky Green	238652
+Greenbelt	017244
+Green Vibes	D4E7C3
+Tantalizing Teal	87DCCE
+Nifty Turquoise	019187
+Splashy	019196
+Intense Teal	017680
+Calypso	01B0BB
+Undercool	7FC3E1
+Dynamic Blue	0192C6
+Blue Chip	016EA7
+Hyper Blue	015F97
+Blueblood	015086
+Frank Blue	225288
+Hyacinth Tint	C2CBE0
+Morning Glory	3C4C80
+Free Spirit	CAB2D2
+Passionate Purple	795484
+African Violet	665385
+Fully Purple	514C7E
+Jitterbug Jade	019D6E
+Bohemian Black	3B373C
+Domino	353337
+Caviar	313031
+Black Magic	323132
+Inkwell	31363A
+Black of Night	323639
+Greenblack	373A3A
+Ibis White	F2ECE6
+Marshmallow	EEE9E0
+Downy	EFE8DD
+Toque White	E7E2DA
+Snowbound	EDEAE5
+Pure White	EDECE6
+Extra White	EEEFEA
+Ceiling Bright White	E9EBE7
+Alabaster	EDEAE0
+Pearly White	E8E3D9
+White Duck	E5DFD2
+Natural Choice	E3DED0
+Creamy	EFE8DB
+Ivory Lace	ECE5D8
+Eider White	E2DED8
+Repose Gray	CCC9C0
+Mindful Gray	BCB7AD
+Dorian Gray	ACA79E
+Dovetail	908A83
+Gauntlet Gray	78736E
+Black Fox	4F4842
+Simple White	DFD9D2
+Alpaca	CCC5BD
+Requisite Gray	B9B2A9
+Functional Gray	ABA39A
+Backdrop	867A6F
+Griffin	6F6459
+Well‐Bred Brown	564537
+Incredible White	E3DED7
+Agreeable Gray	D1CBC1
+Anew Gray	BFB6AA
+Mega Greige	ADA295
+Warm Stone	887B6C
+Brainstorm Bronze	74685A
+Status Bronze	5C4D3C
+Aesthetic White	E3DDD3
+Accessible Beige	D1C7B8
+Balanced Beige	C0B2A2
+Tony Taupe	B1A290
+Virtual Taupe	8A7A6A
+Smokehouse	716354
+Van Dyke Brown	564536
+Shoji White	E6DFD3
+Worldly Gray	CEC6BB
+Amazing Gray	BEB5A9
+Intellectual Gray	A8A093
+Anonymous	817A6E
+Porpoise	6B645B
+Urbane Bronze	54504A
+Nuance	E2E0D6
+Useful Gray	CFCABD
+Analytical Gray	BFB6A7
+Gray Area	AFA696
+Adaptive Shade	867E70
+Suitable Brown	645A4B
+Enduring Bronze	554C3E
+Reserved White	E0E0D9
+Silver Strand	C8CBC4
+Magnetic Gray	B2B5AF
+Unusual Gray	A3A7A0
+Attitude Gray	7C7D75
+Night Owl	63655F
+Rock Bottom	484C49
+Nebulous White	DEDFDC
+Passive	CBCCC9
+Argos	BDBDB7
+Gray Matters	A7A8A2
+Cityscape	7F817E
+Grizzle Gray	636562
+Iron Ore	434341
+Site White	DCDEDC
+Gray Screen	C6CACA
+Online	B0B5B5
+Network Gray	A0A5A7
+Software	7F8486
+Web Gray	616669
+Cyberspace	44484D
+Original White	E2DEDB
+Minute Mauve	CFC9C8
+Ponder	BCB6B6
+Quest Gray	ADA5A5
+Sensuous Gray	837D7F
+Stunning Shade	676064
+Darkroom	443E40
+Arcade White	F3EEE7
+Futon	EDE6DB
+White Flour	F4EFE5
+Whitetail	F4EFE4
+Cotton White	F7EFE3
+Paperwhite	F7EFDE
+Honied White	F8EEDB
+Threshold Taupe	AC9A8A
+Dry Dock	A18D7D
+Sticks & Stones	A49689
+Keystone Gray	9E9284
+Manor House	665D57
+Loggia	C4B7A5
+Stone Lion	B3A491
+Tavern Taupe	9C8A79
+Tiki Hut	826F5E
+Chateau Brown	5B4B44
+Bungalow Beige	CDBFB0
+Pavilion Beige	C5B6A4
+Sanderling	A79582
+Foothills	827466
+Homestead Brown	6E5F53
+Kestrel White	E0D6C8
+China Doll	DBCEBD
+Beach House	C9B29C
+Mexican Sand	AF9781
+Plantation Shutters	6A5143
+Dormer Brown	AD947C
+Meadowlark	9F8267
+Burnished Brandy	7C5C43
+Dhurrie Beige	CABAA8
+Tree Branch	8A7362
+Maison Blanche	DFD2BF
+Nantucket Dune	D0BFAA
+Windsor Greige	C4B49C
+Sand Beach	D4C5AD
+Barcelona Beige	C4B39C
+Canvas Tan	DCD1BF
+Urban Putty	CFC0AB
+Khaki Shade	C0AF97
+Outerbanks	B7A48B
+Sandy Ridge	A18E77
+Bittersweet Stem	CBB49A
+Irish Cream	E3D2B8
+Tamarind	C0A588
+Cork Wedge	C1A98A
+Artisan Tan	B09879
+Grecian Ivory	D8CFBE
+Naturel	CBC0AD
+Avenue Tan	BCB099
+Fenland	AC9D83
+Pier	63523D
+Prairie Grass	B1A38E
+Sandbar	CBBFAD
+Portico	BBAB95
+Studio Taupe	AD9C85
+Resort Tan	907D66
+Greek Villa	F0ECE2
+Bauhaus Buff	E7DBCC
+Fragile Beauty	E7D7C6
+Steamed Milk	ECE1D1
+Patience	E2D3BF
+Crème	F4E8D2
+Summer White	F4E9D6
+Medici Ivory	F3E9D7
+Décor White	F2E5CF
+Impressive Ivory	F4DEC3
+Lemon Meringue	F5EACC
+Roman Column	F6F0E2
+Restful White	EEE8D7
+Polar Bear	E8DFCA
+Oyster Bar	DBD0BB
+Westhighland White	F3EEE3
+Natural Tan	DCD2C3
+Neutral Ground	E2DACA
+Stucco	DCCFBA
+Egret White	DFD9CF
+Casa Blanca	EDE1CE
+Lotus Pod	E7D7C2
+Eaglet Beige	E9D9C0
+Echelon Ecru	E7D8BE
+Chopsticks	E0D1B8
+Blackberry	533640
+Borscht	72353D
+Alaea	81585B
+Carnelian	573E3E
+Salute	803532
+Wild Currant	7C3239
+Red Theatre	6E3637
+Sun Dried Tomato	692B2B
+Stolen Kiss	813235
+Antique Red	9F4442
+Show Stopper	A42E37
+Habanero Chile	B8473D
+Red Barn	7C453D
+Crabby Apple	753531
+Rustic Red	703229
+Carriage Door	6E423E
+Sommelier	5D3736
+Only Natural	E2D3C4
+Sierra Redwood	924E3C
+Brick Paver	93402F
+Bolero	903934
+Dockside Blue	A0B3BC
+Indigo Batik	3E5063
+Poolhouse	8095A0
+Smoky Blue	596E79
+Gale Force	35454E
+Blue Cruise	6591A8
+Santorini Blue	416D83
+Adrift	87AAB9
+Georgian Revival Blue	5B8D9F
+Turkish Tile	3E758A
+Tranquil Aqua	7C9AA0
+Mountain Stream	679199
+Aqua‐Sphere	9CB0B3
+St. Bart's	577C88
+Sea Serpent	3E4B54
+Breezy	A0AEAF
+Mediterranean	60797D
+Deep Sea Dive	376167
+Labradorite	657B83
+Seaworthy	314D58
+Silvermist	B0B8B2
+Homburg Gray	666D69
+Cascades	273E3E
+Slate Tile	606E74
+Mount Etna	3D484C
+Zurich White	E6E1D9
+White Heron	E7E1D7
+Windfresh White	DED8CF
+Grapy	786E70
+Raisin	392B2D
+City Loft	DFDAD1
+Modern Gray	D6CEC3
+Taupe Tone	ADA090
+Pediment	D3CCC4
+Palisade	AA9E95
+Origami White	E5E2DA
+Oyster White	E2DDD0
+Jogging Path	C0B9A9
+Ethereal Mood	AEA594
+Fawn Brindle	A7A094
+Colonnade Gray	C6C0B6
+Pavestone	A0998F
+Pussywillow	B2ADA4
+Gateway Gray	B2AC9C
+Thunder Gray	57534C
+First Star	DAD9D4
+Crushed Ice	D6D3CC
+Big Chill	D0CEC9
+Silverplate	C2C0BA
+Ellie Gray	AAA9A4
+Front Porch	CCCCC5
+Mineral Deposit	ABB0AC
+Silverpointe	D1D2CB
+Lattice	CECEC6
+Stamped Concrete	A0A09A
+Rhinestone	DEE0DE
+Tinsmith	C5C8C4
+Gray Clouds	B7B7B2
+Gris	A5A9A8
+Earl Grey	969A96
+Reflection	D3D5D3
+Evening Shadow	C9CCCD
+Monorail Silver	B8BCBB
+Steely Gray	90979B
+Wall Street	656D73
+Fleur de Sel	DCDDD8
+Zircon	CAC9C6
+March Wind	BAB9B6
+Summit Gray	959491
+Gray Shingle	949392
+On the Rocks	D0CEC8
+Knitting Needles	C3C1BC
+Pewter Cast	9B9893
+Peppercorn	585858
+Sealskin	48423C
+Paper Lantern	F2E0C4
+Gold Vessel	EABA8A
+Cottage Cream	EDDBBD
+Golden Gate	D9AD7F
+Lanyard	C09972
+Tea Light	F8E4C2
+Bee's Wax	EABF86
+Buff	F1DFC1
+Concord Buff	EDD6B1
+White Raisin	E5C28B
+Hinoki	F8DDB7
+August Moon	E7C7A0
+Sundew	E1CDAE
+Row House Tan	D2BB9D
+Townhall Tan	C3AA8C
+Biltmore Buff	E3C9A1
+Cupola Yellow	DCBC8E
+Stonebriar	CBA97E
+Dromedary Camel	CAAD87
+Mesa Tan	BD9C77
+Toasted Pine Nut	DCC6A6
+Safari	CCB18B
+Straw Harvest	DBC8A2
+Rustic City	BA9A67
+Olde World Gold	8F6C3E
+Cavern Clay	AC6B53
+Spiced Cider	B0785C
+Earthen Jug	A85E39
+Tower Tan	D5B59B
+Wheat Penny	976B53
+Copper Wire	C67B57
+Copper Pot	B16A37
+Brandywine	A56C4A
+Pueblo	E6D0BD
+Townhouse Tan	DFC8B5
+Tawny Tan	CCB299
+Oak Barrel	BFA287
+Pottery Urn	AA866E
+Croissant	DBC5A7
+Ligonier Tan	D2B18F
+Oak Creek	BB8D6B
+Fresco Cream	D8C4AE
+Deer Valley	C7A485
+Crescent Cream	EDD1B1
+Travertine	ECD3B3
+Colony Buff	DDC6AB
+Canoe	B7987B
+Yearling	AD896A
+Lemon Verbena	9D986F
+Koi Pond	B9B292
+Green Sprout	A29F80
+Edamame	827C5A
+Forestwood	4D5346
+San Antonio Sage	A69474
+Lemongrass	C8BD98
+Bamboo Shoot	B3A479
+Olive Grove	857C5D
+Palm Leaf	635936
+Garden Sage	B1A584
+Meadow Trail	8D8168
+Cargo Pants	CDC4AE
+Herbal Wash	A49B82
+Messenger Bag	7D745E
+Willow Tree	AAAD9C
+Agate Green	8EA486
+Mountain Road	868578
+Zeus	99907E
+Muddled Basil	5A5243
+Rushing River	A19C8F
+Recycled Glass	BDC0A0
+Green Earth	9A9883
+Laurel Woods	44493D
+Olympic Range	424C44
+High Reflective White	F7F7F1
+Shell White	F0EBE0
+Audrey's Blush	AE8087
+Carley's Rose	A87376
+Rita's Rouge	BA7176
+Coral Rose	C37F7A
+Coral Clay	BF796E
+Rojo Dust	B57466
+Melón Meloso	F2B88C
+Bellini Fizz	F5C78E
+Subdued Sienna	CC896C
+Windswept Canyon	DBA480
+Sun Bleached Ochre	E3AB7B
+Polvo de Oro	E8B87F
+Olden Amber	EEB76B
+Pollen Powder	FBD187
+They call it Mellow	FBE4B3
+La Luna Amarilla	FDDFA0
+Sunny Veranda	FEDF94
+Honey Bees	FBD682
+Golden Plumeria	FBD073
+Rayo de Sol	F4C454
+Naples Yellow	F6D58F
+Yellow Bird	F1CD7B
+Dakota Wheat	E1BD8E
+Vintage Gold	CBA576
+Coriander Powder	BA9C75
+Tarnished Trumpet	D5B176
+Pale Moss	DCC797
+Dusted Olive	BEA775
+Cool Avocado	C4B47D
+Limón Fresco	CEBC55
+Primavera	D2D083
+Stay in Lime	9FAC5C
+Oh Pistachio	ABCA99
+Seawashed Glass	A9C095
+Frosted Emerald	78B185
+Retro Mint	9FCDB1
+Baby Bok Choy	BBB98A
+Cucuzza Verde	9BA373
+Broccoflower	8FA277
+Reseda Green	75946B
+Parisian Patina	7D9B89
+Verdigreen	81A595
+Aquastone	89C6B7
+Little Blue Box	8AC5BA
+Bora Bora Shore	92D0D0
+Gentle Aquamarine	97CBD2
+After the Rain	8BC4D1
+Surfin'	73C0D2
+Sky Fall	89C6DF
+Vintage Vessel	94B2A6
+Aquaverde	A3C0BD
+Blithe Blue	90BDBD
+Agua Fría	9FC5CC
+Little Boy Blu	C7D8DB
+Billowy Breeze	AFC7CD
+French Moire	9FBBC3
+Aquitaine	88ABB4
+Secret Cove	68909D
+Silken Peacock	427584
+Connor's Lakefront	175A6C
+Rest Assured	9BBFC9
+Bluebird Feather	6F9DB3
+Porch Ceiling	9BC8DE
+Bluesy Note	7C9AB5
+Perfect Periwinkle	6487B0
+Agapanthus	BBC5DE
+Forever Lilac	AFA5C7
+Berry Frappé	B3A1C6
+Veri Berri	937496
+Baby Blue Eyes	83A2B4
+Dyer's Woad	7B99B0
+Dried Lavender	8595AA
+Dusty Heather	8990A3
+Gentle Grape	908A9B
+Berry Cream	9A8CA2
+Ruby Violet	9B7E8B
+Rosaline Pearl	A38887
+Cocoa Berry	A08882
+Velvety Chestnut	A2877D
+Hushed Auburn	A8857A
+Redend Point	AE8E7E
+Chocolate Powder	A58C7B
+Dusted Truffle	9C8373
+Cocoa Whip	A08E7E
+Touch of Sand	D5C7BA
+Cool Beige	C6B5A7
+Smoky Beige	B9A796
+Utaupeia	A58F7B
+Llama Wool	917864
+Caraïbe	785F4C
+Half‐Caff	604C3D
+Iced Mocha	A3846C
+Nearly Brown	A88E76
+Playa Arenosa	DCC7B3
+Ginger Root	D2B79E
+Beige Intenso	C5A88D
+Soft Fawn	B59778
+Baked Cookie	89674A
+Saddle Up	725237
+Umber Rust	765138
+Tres Naturale	DCC7AD
+Quinoa	CFB597
+Farro	C1A485
+Woven Wicker	B99974
+Almond Roca	A78361
+El Caramelo	946E48
+Über Umber	7B5838
+Double Latte	A78C71
+Natural Linen	DFD3C3
+Malabar	CFBEA9
+Antler Velvet	C0AD96
+Song Thrush	AF987F
+Mudslide	A08568
+Fallen Leaves	8F7659
+Cowboy Boots	695239
+Serengeti Grass	AB9579
+Urban Jungle	A4947E
+Tarnished Treasure	B9A47E
+Dirty Martini	DDD0B6
+Tumblin' Tumbleweed	CDBB9C
+Sawgrass Basket	C3B090
+Dried Edamame	B19F80
+Barro Verde	9F8E71
+Verde Marrón	877459
+Oliva Oscuro	665439
+Honed Soapstone	9D9887
+At Ease Soldier	9E9985
+Green Onyx	989A82
+Jade Dragon	909886
+Evergreen Fog	95978A
+Cornwall Slate	949488
+Acacia Haze	969C92
+Jasper Stone	8D9E97
+Delft	8B9FA0
+Whirlpool	80969D
+Lullaby	CBD4D4
+Niebla Azul	B6C3C4
+Stardew	A6B2B5
+Debonair	90A0A6
+Blustery Sky	6F848C
+Waterloo	536872
+Moscow Midnight	204652
+Cadet	91999C
+Moonmist	C9D9E0
+Sleepy Hollow	B7C9D1
+Faded Flaxflower	9EB4C0
+Favorite Jeans	8AA3B1
+Smoky Azurite	708D9E
+Inky Blue	4E7287
+Endless Sea	32586E
+Daphne	899CAA
+Let it Rain	979FA5
+Moonlit Orchid	949194
+Perle Noir	4F4D51
+Slate Violet	989192
+Gris Morado	8F8A91
+Autumn Orchid	9D9093
+Coquina	9D8D8E
+Auger Shell	9F9291
+Armadillo	9E9089
+Dustblu	959BA0
+African Gray	939899
+Tin Lizzie	939591
+Illusive Green	92948D
+Gossamer Veil	D3CEC4
+Drift of Mist	DCD8D0
+Polished Concrete	9E9793
+Elephant Ear	988F85
+Chatura Gray	A09287
+Acier	9E9991
+Felted Wool	979083
+Studio Clay	958D7F
+Shiitake	C8BCAB
+Moth Wing	A0907F
+Deep Forest Brown	393437
+Dress Blues	2B4360
+Salty Dog	234058
+In the Navy	283849
+Anchors Aweigh	2B3441
+Aged White	E8DECD
+Rojo Marrón	4B3029
+Dark Clove	4C3D31
+Foxhall Green	454B40
+Marea Baja	2E5464
+Caramelized	C29871

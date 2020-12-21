@@ -1,6 +1,6 @@
 {
   "name": "sherwin-williams",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Sherwin Williams colors available in CSS and JavaScript.",
   "main": "index.js",
   "files": [

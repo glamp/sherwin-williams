@@ -4,7 +4,8 @@
   "description": "Sherwin Williams colors available in CSS and JavaScript.",
   "main": "index.js",
   "files": [
-    "*.css"
+    "*.css",
+    "data/colors.json"
   ],
   "scripts": {
     "build": "node data/index.js > sherwin-williams.css && cat data/colors.json > index.js",

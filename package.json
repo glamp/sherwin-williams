@@ -7,7 +7,7 @@
     "*.css"
   ],
   "scripts": {
-    "build": "node data/index.js > sherwin-williams.css",
+    "build": "node data/index.js > sherwin-williams.css && cat data/colors.json > index.js",
     "test": "echo 'OK'"
   },
   "repository": {

@@ -1,1 +1,2 @@
-module.exports = require("./data/colors.json");
+const path = require("path");
+module.exports = require(path.join(__dirname, "./data/colors.json"));

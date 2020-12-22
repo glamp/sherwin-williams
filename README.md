@@ -4,7 +4,7 @@
 
 ```
 npm install sherwin-williams
--- or
+## or ##
 yarn add sherwin-williams
 ```
 

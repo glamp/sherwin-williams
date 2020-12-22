@@ -25,3 +25,4 @@ import sherwinWilliams from "sherwin-williams/";
 View the [list of available variables here](./sherwin-william.css).
 
 ![](./screenshot.png)
+_And many more!_
